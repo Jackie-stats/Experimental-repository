@@ -24,4 +24,6 @@ plot_gender_distribution <- function(locations, male_counts, female_counts) {
     labs(x = "SES", y = "Count", title = "Gender Distribution in SES") +
     theme_minimal() +
     theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  hello
+  
   
